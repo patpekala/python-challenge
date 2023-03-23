@@ -22,7 +22,7 @@ The Python script analyzes the records to calculate each of the following values
 
 ## PyPoll
 
-I created a Python script that takes a set of poll data called `election_data.csv` that analyzes the votes. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". 
+I created a Python script to analyze the votes from a set of poll data called `election_data.csv`. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". 
 
 The Python script calculates each of the following values:
 
